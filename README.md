@@ -1,5 +1,6 @@
 # CCI_Coding-One_Final-Work
 CCI_Coding One_Final Work
+
 This project is a 3d interactive project based on the first semester of code study, based on three.js.
 
 The project is based on the concepts of 'vapour waves' and 'dream cores', creating a realistic yet unrealistic scene through the combination of sky, ocean and plaster figures. 
