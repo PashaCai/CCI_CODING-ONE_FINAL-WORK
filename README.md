@@ -2,7 +2,7 @@
 
 <h2>Weekly Assessment</h2>
 
-Week 1 <a href = "https://mimicproject.com/code/8e1b4464-c9c8-3308-2f87-6d91d5602927" target = "_blank">https://mimicproject.com/code/8e1b4464-c9c8-3308-2f87-6d91d5602927</a>
+<a href = "https://mimicproject.com/code/8e1b4464-c9c8-3308-2f87-6d91d5602927" target = "_blank">Week 1</a> https://mimicproject.com/code/8e1b4464-c9c8-3308-2f87-6d91d5602927
 
 Week 2 https://mimicproject.com/code/9ca01899-9d4e-8ba5-692d-dfd936c0c8b3
 
