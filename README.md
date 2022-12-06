@@ -1,6 +1,6 @@
 # CCI_Coding-One_Final-Work
 
-<h1>Weekly Assessment</h1>
+<b>Weekly Assessment</b>
 <p>
 Week 1 https://mimicproject.com/code/8e1b4464-c9c8-3308-2f87-6d91d5602927
 
@@ -14,6 +14,5 @@ Week 6 https://mimicproject.com/code/bb227b56-6347-9396-6912-10b315272345
 
 Week 7 https://mimicproject.com/code/422100ec-f334-87e1-6a11-75c35cfcf0c5
 
-Week 8 https://mimicproject.com/code/d564abe2-f9f0-c620-f8b5-5fd86c259065 <br>
-       https://mimicproject.com/code/01db137c-7688-5af2-1835-74b71790ce0a
+Week 8 https://mimicproject.com/code/d564abe2-f9f0-c620-f8b5-5fd86c259065<br>https://mimicproject.com/code/01db137c-7688-5af2-1835-74b71790ce0a
 </p>
