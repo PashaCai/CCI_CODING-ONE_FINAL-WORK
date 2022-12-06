@@ -1,5 +1,5 @@
 # CCI_Coding-One_Final-Work_Rui Cai
-<h2>CCI_Coding One_Final Work</h2>
+<h2>CCI_Coding One_Project</h2>
 
 <h3>LINK TO Demonstration Video https://youtu.be/lcCC4DGMA5I</h3>
 
