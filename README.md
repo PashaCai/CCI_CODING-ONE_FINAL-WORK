@@ -1,7 +1,7 @@
-# CCI_Coding-One_Final-Work
-CCI_Coding One_Final Work
+# CCI_Coding-One_Final-Work_Rui Cai
+<h2>CCI_Coding One_Final Work</h2>
 
-LINK TO Demonstration Video https://youtu.be/lcCC4DGMA5I
+<h3>LINK TO Demonstration Video https://youtu.be/lcCC4DGMA5I</h3>
 
 Due to the use of GIT LFS to upload large files, please click into Final_Work.zip to download, the file size is 810mb.
 
